@@ -91,14 +91,7 @@ margin:0px;
 
 body{
   margin: 0px auto;
-   height: 670px;
   background-position: center;
-}
-  .head{
-  margin-top: 50px;
-}
-section.images {
-    margin-bottom: 67px;
 }
 
 }
@@ -108,16 +101,9 @@ section.images {
 
 body{
   margin: 0px auto;
-   height: 670px;
   background-position: center;
 }
-  .head{
-  margin-top: 50px;
-}
 
-section.images {
-    margin-bottom: 67px;
-}
 
 }
 
@@ -138,15 +124,7 @@ body{
 
 body{
   margin: 0px auto;
-   height: 670px;
   background-position: center;
-}
-  .head{
-  margin-top: 50px;
-}
-
-section.images {
-    margin-bottom: 67px;
 }
 }
 
