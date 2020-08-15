@@ -20,7 +20,7 @@ body{
  overflow: hidden;
 }
 section.images {
-    margin-bottom: 67px;
+    margin-bottom: 40px;
 }
 a {
     text-decoration: none;
@@ -35,7 +35,7 @@ img{
 }
 .head{
   text-align: center;
-  margin-top: 90px;
+  margin-top: 50px;
   margin-bottom: 50px;
 }
 .coName{
@@ -94,7 +94,12 @@ body{
    height: 670px;
   background-position: center;
 }
-
+  .head{
+  margin-top: 50px;
+}
+section.images {
+    margin-bottom: 67px;
+}
 
 }
 
@@ -106,8 +111,13 @@ body{
    height: 670px;
   background-position: center;
 }
+  .head{
+  margin-top: 50px;
+}
 
-
+section.images {
+    margin-bottom: 67px;
+}
 
 }
 
@@ -131,8 +141,13 @@ body{
    height: 670px;
   background-position: center;
 }
+  .head{
+  margin-top: 50px;
+}
 
-
+section.images {
+    margin-bottom: 67px;
+}
 }
 
 /* tablet Screen control */
