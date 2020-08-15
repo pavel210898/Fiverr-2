@@ -1,0 +1,151 @@
+html{
+  scroll-behavior: smooth;
+
+}
+
+body{
+ margin: 0px;
+ padding:0px;
+ max-width: 160px;
+ height: 100%;
+ text-align: center;
+ background-image:url( ../Images/bg-1.png);
+ font-family: 'Roboto Slab', serif;
+ background-repeat: no-repeat;
+ background-position: left;
+}
+.all{
+   max-width: 160px;
+ height: 100%;
+ overflow: hidden;
+}
+section.images {
+    margin-bottom: 40px;
+}
+a {
+    text-decoration: none;
+
+}
+a:hover{
+  text-decoration: none;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+.head{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.coName{
+margin:0px;
+  color: white;
+  font-size: 24px;
+  font-weight: 700;
+}
+.coSlogan{
+margin:0px;
+  color: white;
+  font-size: 15px;
+  font-weight: 400;
+}
+.coEstablish{
+  margin:10px;
+  color: white;
+  font-size: 11px;
+  font-weight: 400;
+}
+.img2,.img3{
+  margin-top: -20px;
+}
+.contents{
+  text-align: center;
+}
+.para {
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    margin: -5px 0px 15px 0px;
+    line-height: 20px;
+}
+.button {
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    background-color: #323232;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition-duration: 0.3s;
+    border: none;
+
+}
+.button:hover{
+  transform: translateY(-5px);
+  box-shadow: 0px 2px 14px -1px #888888;
+}
+/* ===================================Media Query===================================== */
+
+/* Small/Mobile Screen control */
+@media only screen and (min-width: 300px) and (max-width: 330px){
+
+body{
+  margin: 0px auto;
+  background-position: center;
+}
+
+
+}
+
+/* Medium/Mobile Screen control */
+@media only screen and (min-width: 331px) and (max-width: 380px){
+
+body{
+  margin: 0px auto;
+  background-position: center;
+}
+
+
+
+}
+
+/* large/Mobile Screen control */
+/*@media only screen and (min-width: 381px) and (max-width: 450px){
+
+
+body{
+  margin: 0px auto;
+  background-position: center;
+}
+
+
+}*/
+/*Pixel 2XL Screen Control*/
+
+@media only screen and (min-device-width: 411px) and (orientation: portrait) {
+
+body{
+  margin: 0px auto;
+  background-position: center;
+}
+
+
+}
+
+/* tablet Screen control */
+@media only screen and (min-width: 451px) and (max-width: 780px){
+
+
+
+
+
+}
+
+/* laptop Screen control */
+@media only screen and (min-width: 781px) and (max-width: 1050px){
+
+
+
+
+
+}
