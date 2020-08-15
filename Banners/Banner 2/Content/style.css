@@ -6,8 +6,8 @@ html{
 body{
  margin: 0px;
  padding:0px;
- max-width: 160px;
- height: 100%;
+ max-width: 161px;
+ height: 670px;
  text-align: center;
  background-image:url( ../Images/bg-1.png);
  font-family: 'Roboto Slab', serif;
@@ -20,7 +20,7 @@ body{
  overflow: hidden;
 }
 section.images {
-    margin-bottom: 40px;
+    margin-bottom: 67px;
 }
 a {
     text-decoration: none;
@@ -35,7 +35,7 @@ img{
 }
 .head{
   text-align: center;
-  margin-top: 50px;
+  margin-top: 90px;
   margin-bottom: 50px;
 }
 .coName{
